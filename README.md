@@ -37,3 +37,6 @@ vi config.php
  ssh -T git@githubdocker
  Hi dockerlin666! You've successfully authenticated, but GitHub does not provide shell access.
 
+jekyll
+ruby2.2以上gem gcc make g++
+gem install jekyll bundler
